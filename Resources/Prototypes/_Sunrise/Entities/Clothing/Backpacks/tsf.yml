@@ -1,6 +1,6 @@
 - type: entity
   parent: [ClothingBackpack, BaseTSFContraband]
-  id: ClothingBackpackRadioTSF
+  id: ClothingBackpackRadioTSFLohLohloh
   name: TSF radio telephone pack
   description: A heavy-duty pack, used for telecommunications between central command.
   components:
